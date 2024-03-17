@@ -1,1 +1,1 @@
-# finalCapstone
+# The Capstone project
